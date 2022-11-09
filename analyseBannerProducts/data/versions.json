@@ -1,0 +1,272 @@
+{
+    "product_line": "Banner",
+    "products": [
+        {
+            "id": "ARSYS",
+            "name": "Accounts Receivable",
+            "modules": [
+                {
+                    "name": "AccountsReceivable",
+                    "version": "9.3.20.1.1",
+                    "installed": "2022-02-20 07:55:38"
+                },
+                {
+                    "name": "BannerDbUpgrade - 9x DB",
+                    "version": "9.20",
+                    "installed": "2021-03-13 04:52:36"
+                },
+                {
+                    "name": "Accounts Receivable - 8x DB",
+                    "version": "8.8.2",
+                    "installed": "2022-02-20 07:20:27"
+                }
+            ]
+        },
+        {
+            "id": "ALUMNI",
+            "name": "Advancement",
+            "modules": [
+                {
+                    "name": "Advancement Self-Service - 8x DB",
+                    "version": "Not Installed",
+                    "installed": "NA"
+                },
+                {
+                    "name": "Advancement - 8x DB",
+                    "version": "Not Installed",
+                    "installed": "NA"
+                }
+            ]
+        },
+        {
+            "id": "FINAID",
+            "name": "Financial Aid",
+            "modules": [
+                {
+                    "name": "Financial Aid Self-Service - 8x DB",
+                    "version": "8.39.2",
+                    "installed": "2021-07-10 10:48:16"
+                },
+                {
+                    "name": "BannerDbUpgrade - 9x DB",
+                    "version": "9.20",
+                    "installed": "2021-03-13 05:19:58"
+                },
+                {
+                    "name": "FinancialAid",
+                    "version": "9.3.32.0.4",
+                    "installed": "2022-09-29 12:02:54"
+                },
+                {
+                    "name": "Financial Aid - 8x DB",
+                    "version": "8.43",
+                    "installed": "2022-09-29 11:45:33"
+                }
+            ]
+        },
+        {
+            "id": "FINANCE",
+            "name": "Finance",
+            "modules": [
+                {
+                    "name": "Finance Self-Service - 8x DB",
+                    "version": "Not Installed",
+                    "installed": "NA"
+                },
+                {
+                    "name": "Finance - 8x DB",
+                    "version": "Not Installed",
+                    "installed": "NA"
+                }
+            ]
+        },
+        {
+            "id": "GENERAL",
+            "name": "General",
+            "modules": [
+                {
+                    "name": "Web General - 8x DB",
+                    "version": "8.7.1",
+                    "installed": "2016-01-30 12:59:54"
+                },
+                {
+                    "name": "Mass Data Update Utility - 8x DB",
+                    "version": "Not Installed",
+                    "installed": "NA"
+                },
+                {
+                    "name": "Integration Components - 8x DB",
+                    "version": "Not Installed",
+                    "installed": "NA"
+                },
+                {
+                    "name": "Translations Manager - 8x DB",
+                    "version": "1.0",
+                    "installed": "2004-02-28 07:24:18"
+                },
+                {
+                    "name": "AccessManagement",
+                    "version": "9.3.20.0.4",
+                    "installed": "2022-09-29 11:56:05"
+                },
+                {
+                    "name": "AdminCommon",
+                    "version": "9.3.29.0.5",
+                    "installed": "2022-09-29 11:53:21"
+                },
+                {
+                    "name": "ApplicationNavigator",
+                    "version": "3.7.0.1",
+                    "installed": "2022-09-29 12:05:40"
+                },
+                {
+                    "name": "ApplicationNavigator - 9x DB",
+                    "version": "3.7.0.1",
+                    "installed": "2022-09-29 12:05:40"
+                },
+                {
+                    "name": "BannerDbUpgrade - 9x DB",
+                    "version": "9.20",
+                    "installed": "2021-03-13 04:51:22"
+                },
+                {
+                    "name": "BannerExtensibility",
+                    "version": "9.6",
+                    "installed": "2021-03-13 05:45:52"
+                },
+                {
+                    "name": "BannerExtensibility - 9x DB",
+                    "version": "9.6",
+                    "installed": "2021-03-13 05:45:52"
+                },
+                {
+                    "name": "CommunicationManagement",
+                    "version": "9.7",
+                    "installed": "2021-03-13 05:51:06"
+                },
+                {
+                    "name": "CommunicationManagement - 9x DB",
+                    "version": "9.7",
+                    "installed": "2021-03-13 05:51:06"
+                },
+                {
+                    "name": "General",
+                    "version": "9.3.24.0.4",
+                    "installed": "2022-09-29 11:59:28"
+                },
+                {
+                    "name": "General - 8x DB",
+                    "version": "8.14.2",
+                    "installed": "2022-09-29 11:32:04"
+                }
+            ]
+        },
+        {
+            "id": "PAYROLL",
+            "name": "Human Resources",
+            "modules": [
+                {
+                    "name": "Employee Self-Service - 8x DB",
+                    "version": "Not Installed",
+                    "installed": "NA"
+                },
+                {
+                    "name": "Human Resources - 8x DB",
+                    "version": "Not Installed",
+                    "installed": "NA"
+                }
+            ]
+        },
+        {
+            "id": "POSNCTL",
+            "name": "Position Control",
+            "modules": [
+                {
+                    "name": "Position Control - 8x DB",
+                    "version": "Not Installed",
+                    "installed": "NA"
+                }
+            ]
+        },
+        {
+            "id": "STUDENT",
+            "name": "Student",
+            "modules": [
+                {
+                    "name": "Faculty and Advisors Self-Service - 8x DB",
+                    "version": "8.3",
+                    "installed": "2010-09-23 04:14:42"
+                },
+                {
+                    "name": "Student Self-Service - 8x DB",
+                    "version": "8.7.2",
+                    "installed": "2018-07-28 12:20:07"
+                },
+                {
+                    "name": "BannerDbUpgrade - 9x DB",
+                    "version": "9.20",
+                    "installed": "2021-03-13 05:27:53"
+                },
+                {
+                    "name": "Student",
+                    "version": "9.3.22.0.4",
+                    "installed": "2021-07-10 11:09:21"
+                },
+                {
+                    "name": "Student - 8x DB",
+                    "version": "8.20.3",
+                    "installed": "2021-07-10 10:17:15"
+                }
+            ]
+        },
+        {
+            "id": "WEBTAILOR",
+            "name": "Web Tailor",
+            "modules": [
+                {
+                    "name": "Web Tailor - 8x DB",
+                    "version": "8.9.1",
+                    "installed": "2021-03-13 04:19:04"
+                }
+            ]
+        },
+        {
+            "id": "FLEXREG",
+            "name": "Flexible Registration",
+            "modules": [
+                {
+                    "name": "Flexible Registration - 8x DB",
+                    "version": "Not Installed",
+                    "installed": "NA"
+                }
+            ]
+        },
+        {
+            "id": "DOCMGMT",
+            "name": "Banner Document Management Suite",
+            "modules": [
+                {
+                    "name": "DocumentManagement",
+                    "version": "9.3.0.29",
+                    "installed": "2018-10-13 11:06:15"
+                },
+                {
+                    "name": "Banner Document Management Suite - 8x DB",
+                    "version": "8.6",
+                    "installed": "2018-09-16 08:41:15"
+                }
+            ]
+        },
+        {
+            "id": "DOCRETN",
+            "name": "Banner Document Retention",
+            "modules": [
+                {
+                    "name": "Banner Document Retention - 8x DB",
+                    "version": "Not Installed",
+                    "installed": "NA"
+                }
+            ]
+        }
+    ]
+}
